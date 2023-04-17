@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nguyen Ngoc Long
-- 🌱 I’m currently learning NodeJS and MongoDB
+- 🌱 I’m currently learning Python and SQL
 - 📫 Studying at PTIT
 
 <!---
