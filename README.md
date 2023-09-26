@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nguyen Ngoc Long
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Kafka and Airflow
 - 📫 Studying at PTIT
 
 <!---
