@@ -23,7 +23,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="[https://www.facebook.com/your.profile](https://www.facebook.com/lltva/)" target="_blank">
+  <a href="https://www.facebook.com/lltva/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="mailto:nlong2232003@gmail.com" target="_blank">
