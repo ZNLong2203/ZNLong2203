@@ -5,11 +5,11 @@
 - 💼 Seeking a role as a Backend and Data Engineer
 
 ## 🚀 Skills
-- **Languages**: Python, C++, SQL
-- **Frameworks**: Nodejs
-- **Technologies**: Kafka, Spark, Hadoop, Airflow, Docker
-- **Databases**: SQLServer, PostgreSQL, MongoDB
-- **Others**: Git, REST APIs, Microservices
+- **Languages**: Javascript/Typescript, Python
+- **Backend Technologies**: Nodejs(Express), Nodejs(Nest)
+- **DataEngineer Technologies**: Kafka, Spark, Airflow
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Others**: Git, Docker, REST APIs, Microservices
 
 ## 📈 GitHub Stats
 <div align="center">
